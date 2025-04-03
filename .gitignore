@@ -1,0 +1,4 @@
+# Keep only Rust files
+*
+!*.rs
+!.gitignore

@@ -1,7 +1,0 @@
-1.Rust introduction(1-6)
-2.Control flow(7-8)
-3.Data Types(9-12)
-4.Function (13-15)
-5.Standard library(16-21)
-6.Error and Memory(22-25)
-7.Modules(26-)
